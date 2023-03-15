@@ -2,7 +2,7 @@
 
 Submitted by: **Tolulope Akinlabi**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that mirrors instagram and uses Parse to pass data to backend
 
 Time spent: **2.5** hours spent in total
 
